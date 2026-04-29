@@ -43,37 +43,37 @@ The goal was to convert raw datasets into clean tables and create automated dash
 ## 📂 Project Reports (PDF Format)
 ### **📦 Product Performance Reports**  
 Top & bottom productsdivision-level trends, country-level results, and performance of new products.  
-📄 **[View PDF](https://github.com/ShouryaAgg/AtliQ-Hardwares-Business-Performance-Analysis/blob/186b8dc2f6489dd11393b0651c8b12f412a583ab/Product-Performance-Reports.pdf)**
+📄 **[View PDF](https://github.com/rishumittal02/AtliQ-Hardwares-Business-Performance-Analysis/blob/main/Screenshots/Product-Performance-Reports.pdf)**
 
 ---
 
 ### **👥 Customer Performance Analysis**  
 Customer-level sales for multiple years along with percentage growth and performance patterns.  
-📄 **[View PDF](https://github.com/ShouryaAgg/AtliQ-Hardwares-Business-Performance-Analysis/blob/186b8dc2f6489dd11393b0651c8b12f412a583ab/Customer-Performance-Analysis.pdf)**
+📄 **[View PDF](https://github.com/rishumittal02/AtliQ-Hardwares-Business-Performance-Analysis/blob/main/Screenshots/Customer-Performance-Analysis.pdf)**
 
 ---
 
 ### **🌍 Market Performance vs Target**  
 Shows how each market performed compared to expected targets and highlights gaps.  
-📄 **[View PDF](https://github.com/ShouryaAgg/AtliQ-Hardwares-Business-Performance-Analysis/blob/186b8dc2f6489dd11393b0651c8b12f412a583ab/Market-Performance-vs-Target.pdf)**
+📄 **[View PDF](https://github.com/rishumittal02/AtliQ-Hardwares-Business-Performance-Analysis/blob/main/Screenshots/Market-Performance-vs-Target.pdf)**
 
 ---
 
 ### **📅 P&L by Fiscal Months (2019–2021)**  
 Month-wise Net Sales, COGS, Gross Margin, and year-over-year changes.  
-📄 **[View PDF](https://github.com/ShouryaAgg/AtliQ-Hardwares-Business-Performance-Analysis/blob/186b8dc2f6489dd11393b0651c8b12f412a583ab/P-and-L-By-Fiscal-Months-2019-2021.pdf)**
+📄 **[View PDF](https://github.com/rishumittal02/AtliQ-Hardwares-Business-Performance-Analysis/blob/main/Screenshots/P-and-L-By-Fiscal-Months-2019-2021.pdf)**
 
 ---
 
 ### **📆 P&L by Fiscal Years**  
 Annual summary of financial metrics including Net Sales, COGS, margins, and YoY performance.  
-📄 **[View PDF](https://github.com/ShouryaAgg/AtliQ-Hardwares-Business-Performance-Analysis/blob/186b8dc2f6489dd11393b0651c8b12f412a583ab/P-and-L-By-Fiscal-Years.pdf)**
+📄 **[View PDF](https://github.com/rishumittal02/AtliQ-Hardwares-Business-Performance-Analysis/blob/main/Screenshots/P-and-L-By-Fiscal-Years.pdf)**
 
 ---
 
 ### **🧩 Project Priority Matrix**  
 Visual priority scoring based on feasibility, impact, and size.  
-📄 **[View PDF](https://github.com/ShouryaAgg/AtliQ-Hardwares-Business-Performance-Analysis/blob/186b8dc2f6489dd11393b0651c8b12f412a583ab/Project-Priority-Matrix.pdf)**
+📄 **[View PDF](https://github.com/rishumittal02/AtliQ-Hardwares-Business-Performance-Analysis/blob/main/Screenshots/Project-Priority-Matrix.pdf)**
 
 ---
 
